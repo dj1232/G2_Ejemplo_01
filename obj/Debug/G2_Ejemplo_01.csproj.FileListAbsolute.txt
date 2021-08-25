@@ -1,0 +1,10 @@
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\bin\Debug\G2_Ejemplo_01.exe.config
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\bin\Debug\G2_Ejemplo_01.exe
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\bin\Debug\G2_Ejemplo_01.pdb
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\obj\Debug\G2_Ejemplo_01.csprojAssemblyReference.cache
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\obj\Debug\G2_Ejemplo_01.formulario.resources
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\obj\Debug\G2_Ejemplo_01.Properties.Resources.resources
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\obj\Debug\G2_Ejemplo_01.csproj.GenerateResource.cache
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\obj\Debug\G2_Ejemplo_01.csproj.CoreCompileInputs.cache
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\obj\Debug\G2_Ejemplo_01.exe
+D:\UDB\CICLO 2\POO\02 L\G2_Ejemplo_01\G2_Ejemplo_01\obj\Debug\G2_Ejemplo_01.pdb
