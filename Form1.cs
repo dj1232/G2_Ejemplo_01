@@ -32,6 +32,7 @@ namespace G2_Ejemplo_01
         {
             Application.Exit(); //termina la aplicacion
         }//fin funcion click btn_salir
+        //cambio para el git
         
     }
 }
